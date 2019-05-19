@@ -1,0 +1,13 @@
+name: CN-MC-Server-Plugin
+version: 0.1
+description: CN-MC-Server
+author: Sisui
+website: http://5craft.blog.jp/
+main: CNMCServer
+commands:
+  accept:
+    description: Accepts their duel invitation.
+    usage: /accept [Name]
+  duel:
+    description: Send a duel to a specific player.
+    usage: /duel [Name]
